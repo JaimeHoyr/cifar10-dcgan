@@ -1,0 +1,10 @@
+
+.ipynb_checkpoints/
+__pycache__/
+.env
+.venv/
+1000_Imgs/
+*.h5
+*.keras
+*.pt
+*.pth
